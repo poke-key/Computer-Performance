@@ -1,0 +1,17 @@
+C:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\bin\Debug\Computer Performance Windows Chart.exe.config
+C:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\bin\Debug\Computer Performance Windows Chart.exe
+C:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\bin\Debug\Computer Performance Windows Chart.pdb
+C:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\obj\Debug\Computer Performance Windows Chart.csproj.AssemblyReference.cache
+C:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\obj\Debug\Computer_Performance_Windows_Chart.Properties.Resources.resources
+C:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\obj\Debug\Computer Performance Windows Chart.csproj.GenerateResource.cache
+C:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\obj\Debug\Computer Performance Windows Chart.csproj.CoreCompileInputs.cache
+C:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\obj\Debug\Computer Performance Windows Chart.exe
+C:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\obj\Debug\Computer Performance Windows Chart.pdb
+C:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\obj\Debug\Computer_Performance_Windows_Chart.Form1.resources
+C:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\obj\Debug\Computer_Performance_Windows_Chart.TicTacToe.resources
+C:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\bin\Debug\MetroFramework.dll
+C:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\obj\Debug\Computer Performance Windows Chart.csproj.CopyComplete
+D:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\obj\Debug\Computer Performance Windows Chart.exe
+D:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\obj\Debug\Computer Performance Windows Chart.pdb
+C:\Users\Kunal\source\repos\Computer Performance Windows Chart\Computer Performance Windows Chart\obj\Debug\Computer_Performance_Windows_Chart.Sudoku.resources
