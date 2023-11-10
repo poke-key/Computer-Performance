@@ -30,7 +30,7 @@ namespace Computer_Performance_Windows_Chart
                 {I1, I2, I3, I4, I5, I6, I7, I8, I9}
             };
 
-            // Attach the drag-and-drop event handlers
+            // Attach the drag-and-drop event handlers into 9x9 grid
             foreach (var button in sudokuButtons)
             {
                 button.MouseDown += SudokuButton_MouseDown;
@@ -40,8 +40,11 @@ namespace Computer_Performance_Windows_Chart
             }
         }
 
-        // The following methods handle drag-and-drop functionality
-
+        /// <summary>
+        /// The following methods handle drag-and-drop functionality
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void SudokuButton_MouseDown(object sender, MouseEventArgs e)
         {
             if (e.Button == MouseButtons.Left)
@@ -73,7 +76,5 @@ namespace Computer_Performance_Windows_Chart
             destinationButton.Text = draggedButton.Text;
             draggedButton.Text = tempText;
         }
-
-        // ... The rest of your code
     }
 }
