@@ -779,6 +779,9 @@ namespace Computer_Performance_Windows_Chart
             this.metroTile1.Text = "1";
             this.metroTile1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.metroTile1.TileImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.metroTile1.DragDrop += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragDrop);
+            this.metroTile1.DragEnter += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragEnter);
+            this.metroTile1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.SudokuButton_MouseDown);
             // 
             // metroTile2
             // 
@@ -789,6 +792,9 @@ namespace Computer_Performance_Windows_Chart
             this.metroTile2.TabIndex = 82;
             this.metroTile2.Text = "2";
             this.metroTile2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.metroTile2.DragDrop += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragDrop);
+            this.metroTile2.DragEnter += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragEnter);
+            this.metroTile2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.SudokuButton_MouseDown);
             // 
             // metroTile3
             // 
@@ -800,6 +806,9 @@ namespace Computer_Performance_Windows_Chart
             this.metroTile3.Text = "3";
             this.metroTile3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.metroTile3.TileImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.metroTile3.DragDrop += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragDrop);
+            this.metroTile3.DragEnter += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragEnter);
+            this.metroTile3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.SudokuButton_MouseDown);
             // 
             // metroTile4
             // 
@@ -811,6 +820,9 @@ namespace Computer_Performance_Windows_Chart
             this.metroTile4.Text = "4";
             this.metroTile4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.metroTile4.TileImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.metroTile4.DragDrop += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragDrop);
+            this.metroTile4.DragEnter += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragEnter);
+            this.metroTile4.MouseDown += new System.Windows.Forms.MouseEventHandler(this.SudokuButton_MouseDown);
             // 
             // metroTile5
             // 
@@ -822,6 +834,9 @@ namespace Computer_Performance_Windows_Chart
             this.metroTile5.Text = "5";
             this.metroTile5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.metroTile5.TileImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.metroTile5.DragDrop += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragDrop);
+            this.metroTile5.DragEnter += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragEnter);
+            this.metroTile5.MouseDown += new System.Windows.Forms.MouseEventHandler(this.SudokuButton_MouseDown);
             // 
             // metroTile6
             // 
@@ -833,6 +848,9 @@ namespace Computer_Performance_Windows_Chart
             this.metroTile6.Text = "6";
             this.metroTile6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.metroTile6.TileImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.metroTile6.DragDrop += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragDrop);
+            this.metroTile6.DragEnter += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragEnter);
+            this.metroTile6.MouseDown += new System.Windows.Forms.MouseEventHandler(this.SudokuButton_MouseDown);
             // 
             // metroTile7
             // 
@@ -844,6 +862,9 @@ namespace Computer_Performance_Windows_Chart
             this.metroTile7.Text = "7";
             this.metroTile7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.metroTile7.TileImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.metroTile7.DragDrop += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragDrop);
+            this.metroTile7.DragEnter += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragEnter);
+            this.metroTile7.MouseDown += new System.Windows.Forms.MouseEventHandler(this.SudokuButton_MouseDown);
             // 
             // metroTile8
             // 
@@ -856,6 +877,9 @@ namespace Computer_Performance_Windows_Chart
             this.metroTile8.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.metroTile8.Theme = MetroFramework.MetroThemeStyle.Light;
             this.metroTile8.TileImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.metroTile8.DragDrop += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragDrop);
+            this.metroTile8.DragEnter += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragEnter);
+            this.metroTile8.MouseDown += new System.Windows.Forms.MouseEventHandler(this.SudokuButton_MouseDown);
             // 
             // metroTile9
             // 
@@ -867,6 +891,9 @@ namespace Computer_Performance_Windows_Chart
             this.metroTile9.Text = "9";
             this.metroTile9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.metroTile9.TileImageAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.metroTile9.DragDrop += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragDrop);
+            this.metroTile9.DragEnter += new System.Windows.Forms.DragEventHandler(this.SudokuButton_DragEnter);
+            this.metroTile9.MouseDown += new System.Windows.Forms.MouseEventHandler(this.SudokuButton_MouseDown);
             // 
             // Sudoku
             // 
