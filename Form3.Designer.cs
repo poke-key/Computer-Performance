@@ -40,20 +40,20 @@ namespace Computer_Performance_Windows_Chart
             this.A9 = new MetroFramework.Controls.MetroButton();
             this.B1 = new MetroFramework.Controls.MetroButton();
             this.C1 = new MetroFramework.Controls.MetroButton();
-            this.metroButton12 = new MetroFramework.Controls.MetroButton();
-            this.metroButton13 = new MetroFramework.Controls.MetroButton();
-            this.metroButton14 = new MetroFramework.Controls.MetroButton();
-            this.metroButton15 = new MetroFramework.Controls.MetroButton();
-            this.metroButton16 = new MetroFramework.Controls.MetroButton();
-            this.metroButton17 = new MetroFramework.Controls.MetroButton();
+            this.D1 = new MetroFramework.Controls.MetroButton();
+            this.E1 = new MetroFramework.Controls.MetroButton();
+            this.F1 = new MetroFramework.Controls.MetroButton();
+            this.G1 = new MetroFramework.Controls.MetroButton();
+            this.H1 = new MetroFramework.Controls.MetroButton();
+            this.I1 = new MetroFramework.Controls.MetroButton();
             this.B2 = new MetroFramework.Controls.MetroButton();
             this.C2 = new MetroFramework.Controls.MetroButton();
-            this.metroButton20 = new MetroFramework.Controls.MetroButton();
-            this.metroButton21 = new MetroFramework.Controls.MetroButton();
-            this.metroButton22 = new MetroFramework.Controls.MetroButton();
-            this.metroButton23 = new MetroFramework.Controls.MetroButton();
-            this.metroButton24 = new MetroFramework.Controls.MetroButton();
-            this.metroButton25 = new MetroFramework.Controls.MetroButton();
+            this.D2 = new MetroFramework.Controls.MetroButton();
+            this.E2 = new MetroFramework.Controls.MetroButton();
+            this.F2 = new MetroFramework.Controls.MetroButton();
+            this.G2 = new MetroFramework.Controls.MetroButton();
+            this.H2 = new MetroFramework.Controls.MetroButton();
+            this.I2 = new MetroFramework.Controls.MetroButton();
             this.B3 = new MetroFramework.Controls.MetroButton();
             this.B4 = new MetroFramework.Controls.MetroButton();
             this.B5 = new MetroFramework.Controls.MetroButton();
@@ -61,55 +61,55 @@ namespace Computer_Performance_Windows_Chart
             this.B7 = new MetroFramework.Controls.MetroButton();
             this.B8 = new MetroFramework.Controls.MetroButton();
             this.B9 = new MetroFramework.Controls.MetroButton();
-            this.metroButton33 = new MetroFramework.Controls.MetroButton();
-            this.metroButton34 = new MetroFramework.Controls.MetroButton();
-            this.metroButton35 = new MetroFramework.Controls.MetroButton();
-            this.metroButton36 = new MetroFramework.Controls.MetroButton();
-            this.metroButton37 = new MetroFramework.Controls.MetroButton();
-            this.metroButton38 = new MetroFramework.Controls.MetroButton();
+            this.I9 = new MetroFramework.Controls.MetroButton();
+            this.H8 = new MetroFramework.Controls.MetroButton();
+            this.G7 = new MetroFramework.Controls.MetroButton();
+            this.F6 = new MetroFramework.Controls.MetroButton();
+            this.E5 = new MetroFramework.Controls.MetroButton();
+            this.D4 = new MetroFramework.Controls.MetroButton();
             this.C3 = new MetroFramework.Controls.MetroButton();
             this.C4 = new MetroFramework.Controls.MetroButton();
             this.C5 = new MetroFramework.Controls.MetroButton();
             this.C6 = new MetroFramework.Controls.MetroButton();
             this.C7 = new MetroFramework.Controls.MetroButton();
-            this.metroButton44 = new MetroFramework.Controls.MetroButton();
-            this.metroButton45 = new MetroFramework.Controls.MetroButton();
-            this.metroButton46 = new MetroFramework.Controls.MetroButton();
+            this.D5 = new MetroFramework.Controls.MetroButton();
+            this.D6 = new MetroFramework.Controls.MetroButton();
+            this.D7 = new MetroFramework.Controls.MetroButton();
             this.C8 = new MetroFramework.Controls.MetroButton();
             this.C9 = new MetroFramework.Controls.MetroButton();
-            this.metroButton49 = new MetroFramework.Controls.MetroButton();
-            this.metroButton50 = new MetroFramework.Controls.MetroButton();
-            this.metroButton51 = new MetroFramework.Controls.MetroButton();
-            this.metroButton52 = new MetroFramework.Controls.MetroButton();
-            this.metroButton53 = new MetroFramework.Controls.MetroButton();
-            this.metroButton54 = new MetroFramework.Controls.MetroButton();
-            this.metroButton55 = new MetroFramework.Controls.MetroButton();
-            this.metroButton56 = new MetroFramework.Controls.MetroButton();
-            this.metroButton57 = new MetroFramework.Controls.MetroButton();
-            this.metroButton58 = new MetroFramework.Controls.MetroButton();
-            this.metroButton59 = new MetroFramework.Controls.MetroButton();
-            this.metroButton60 = new MetroFramework.Controls.MetroButton();
-            this.metroButton61 = new MetroFramework.Controls.MetroButton();
-            this.metroButton62 = new MetroFramework.Controls.MetroButton();
-            this.metroButton63 = new MetroFramework.Controls.MetroButton();
-            this.metroButton64 = new MetroFramework.Controls.MetroButton();
-            this.metroButton65 = new MetroFramework.Controls.MetroButton();
-            this.metroButton66 = new MetroFramework.Controls.MetroButton();
-            this.metroButton67 = new MetroFramework.Controls.MetroButton();
-            this.metroButton68 = new MetroFramework.Controls.MetroButton();
-            this.metroButton69 = new MetroFramework.Controls.MetroButton();
-            this.metroButton70 = new MetroFramework.Controls.MetroButton();
-            this.metroButton71 = new MetroFramework.Controls.MetroButton();
-            this.metroButton72 = new MetroFramework.Controls.MetroButton();
-            this.metroButton73 = new MetroFramework.Controls.MetroButton();
-            this.metroButton74 = new MetroFramework.Controls.MetroButton();
-            this.metroButton75 = new MetroFramework.Controls.MetroButton();
-            this.metroButton76 = new MetroFramework.Controls.MetroButton();
-            this.metroButton77 = new MetroFramework.Controls.MetroButton();
-            this.metroButton78 = new MetroFramework.Controls.MetroButton();
-            this.metroButton79 = new MetroFramework.Controls.MetroButton();
-            this.metroButton80 = new MetroFramework.Controls.MetroButton();
-            this.metroButton81 = new MetroFramework.Controls.MetroButton();
+            this.D8 = new MetroFramework.Controls.MetroButton();
+            this.D9 = new MetroFramework.Controls.MetroButton();
+            this.E6 = new MetroFramework.Controls.MetroButton();
+            this.E4 = new MetroFramework.Controls.MetroButton();
+            this.D3 = new MetroFramework.Controls.MetroButton();
+            this.E3 = new MetroFramework.Controls.MetroButton();
+            this.E7 = new MetroFramework.Controls.MetroButton();
+            this.F7 = new MetroFramework.Controls.MetroButton();
+            this.F5 = new MetroFramework.Controls.MetroButton();
+            this.F4 = new MetroFramework.Controls.MetroButton();
+            this.F3 = new MetroFramework.Controls.MetroButton();
+            this.G3 = new MetroFramework.Controls.MetroButton();
+            this.E9 = new MetroFramework.Controls.MetroButton();
+            this.F9 = new MetroFramework.Controls.MetroButton();
+            this.E8 = new MetroFramework.Controls.MetroButton();
+            this.F8 = new MetroFramework.Controls.MetroButton();
+            this.G8 = new MetroFramework.Controls.MetroButton();
+            this.I4 = new MetroFramework.Controls.MetroButton();
+            this.H4 = new MetroFramework.Controls.MetroButton();
+            this.G4 = new MetroFramework.Controls.MetroButton();
+            this.H6 = new MetroFramework.Controls.MetroButton();
+            this.H9 = new MetroFramework.Controls.MetroButton();
+            this.I7 = new MetroFramework.Controls.MetroButton();
+            this.I5 = new MetroFramework.Controls.MetroButton();
+            this.G6 = new MetroFramework.Controls.MetroButton();
+            this.G5 = new MetroFramework.Controls.MetroButton();
+            this.G9 = new MetroFramework.Controls.MetroButton();
+            this.H7 = new MetroFramework.Controls.MetroButton();
+            this.H5 = new MetroFramework.Controls.MetroButton();
+            this.I6 = new MetroFramework.Controls.MetroButton();
+            this.I8 = new MetroFramework.Controls.MetroButton();
+            this.H3 = new MetroFramework.Controls.MetroButton();
+            this.I3 = new MetroFramework.Controls.MetroButton();
             this.metroTile1 = new MetroFramework.Controls.MetroTile();
             this.metroTile2 = new MetroFramework.Controls.MetroTile();
             this.metroTile3 = new MetroFramework.Controls.MetroTile();
@@ -209,53 +209,53 @@ namespace Computer_Performance_Windows_Chart
             this.C1.Size = new System.Drawing.Size(89, 78);
             this.C1.TabIndex = 10;
             // 
-            // metroButton12
+            // D1
             // 
-            this.metroButton12.Location = new System.Drawing.Point(29, 323);
-            this.metroButton12.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton12.Name = "metroButton12";
-            this.metroButton12.Size = new System.Drawing.Size(89, 78);
-            this.metroButton12.TabIndex = 11;
+            this.D1.Location = new System.Drawing.Point(29, 323);
+            this.D1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.D1.Name = "D1";
+            this.D1.Size = new System.Drawing.Size(89, 78);
+            this.D1.TabIndex = 11;
             // 
-            // metroButton13
+            // E1
             // 
-            this.metroButton13.Location = new System.Drawing.Point(29, 407);
-            this.metroButton13.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton13.Name = "metroButton13";
-            this.metroButton13.Size = new System.Drawing.Size(89, 78);
-            this.metroButton13.TabIndex = 12;
+            this.E1.Location = new System.Drawing.Point(29, 407);
+            this.E1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.E1.Name = "E1";
+            this.E1.Size = new System.Drawing.Size(89, 78);
+            this.E1.TabIndex = 12;
             // 
-            // metroButton14
+            // F1
             // 
-            this.metroButton14.Location = new System.Drawing.Point(29, 492);
-            this.metroButton14.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton14.Name = "metroButton14";
-            this.metroButton14.Size = new System.Drawing.Size(89, 78);
-            this.metroButton14.TabIndex = 13;
+            this.F1.Location = new System.Drawing.Point(29, 492);
+            this.F1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.F1.Name = "F1";
+            this.F1.Size = new System.Drawing.Size(89, 78);
+            this.F1.TabIndex = 13;
             // 
-            // metroButton15
+            // G1
             // 
-            this.metroButton15.Location = new System.Drawing.Point(29, 576);
-            this.metroButton15.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton15.Name = "metroButton15";
-            this.metroButton15.Size = new System.Drawing.Size(89, 78);
-            this.metroButton15.TabIndex = 14;
+            this.G1.Location = new System.Drawing.Point(29, 576);
+            this.G1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.G1.Name = "G1";
+            this.G1.Size = new System.Drawing.Size(89, 78);
+            this.G1.TabIndex = 14;
             // 
-            // metroButton16
+            // H1
             // 
-            this.metroButton16.Location = new System.Drawing.Point(29, 661);
-            this.metroButton16.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton16.Name = "metroButton16";
-            this.metroButton16.Size = new System.Drawing.Size(89, 78);
-            this.metroButton16.TabIndex = 15;
+            this.H1.Location = new System.Drawing.Point(29, 661);
+            this.H1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.H1.Name = "H1";
+            this.H1.Size = new System.Drawing.Size(89, 78);
+            this.H1.TabIndex = 15;
             // 
-            // metroButton17
+            // I1
             // 
-            this.metroButton17.Location = new System.Drawing.Point(29, 745);
-            this.metroButton17.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton17.Name = "metroButton17";
-            this.metroButton17.Size = new System.Drawing.Size(89, 78);
-            this.metroButton17.TabIndex = 16;
+            this.I1.Location = new System.Drawing.Point(29, 745);
+            this.I1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.I1.Name = "I1";
+            this.I1.Size = new System.Drawing.Size(89, 78);
+            this.I1.TabIndex = 16;
             // 
             // B2
             // 
@@ -273,53 +273,53 @@ namespace Computer_Performance_Windows_Chart
             this.C2.Size = new System.Drawing.Size(89, 78);
             this.C2.TabIndex = 18;
             // 
-            // metroButton20
+            // D2
             // 
-            this.metroButton20.Location = new System.Drawing.Point(124, 323);
-            this.metroButton20.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton20.Name = "metroButton20";
-            this.metroButton20.Size = new System.Drawing.Size(89, 78);
-            this.metroButton20.TabIndex = 19;
+            this.D2.Location = new System.Drawing.Point(124, 323);
+            this.D2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.D2.Name = "D2";
+            this.D2.Size = new System.Drawing.Size(89, 78);
+            this.D2.TabIndex = 19;
             // 
-            // metroButton21
+            // E2
             // 
-            this.metroButton21.Location = new System.Drawing.Point(124, 407);
-            this.metroButton21.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton21.Name = "metroButton21";
-            this.metroButton21.Size = new System.Drawing.Size(89, 78);
-            this.metroButton21.TabIndex = 20;
+            this.E2.Location = new System.Drawing.Point(124, 407);
+            this.E2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.E2.Name = "E2";
+            this.E2.Size = new System.Drawing.Size(89, 78);
+            this.E2.TabIndex = 20;
             // 
-            // metroButton22
+            // F2
             // 
-            this.metroButton22.Location = new System.Drawing.Point(124, 492);
-            this.metroButton22.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton22.Name = "metroButton22";
-            this.metroButton22.Size = new System.Drawing.Size(89, 78);
-            this.metroButton22.TabIndex = 21;
+            this.F2.Location = new System.Drawing.Point(124, 492);
+            this.F2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.F2.Name = "F2";
+            this.F2.Size = new System.Drawing.Size(89, 78);
+            this.F2.TabIndex = 21;
             // 
-            // metroButton23
+            // G2
             // 
-            this.metroButton23.Location = new System.Drawing.Point(124, 576);
-            this.metroButton23.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton23.Name = "metroButton23";
-            this.metroButton23.Size = new System.Drawing.Size(89, 78);
-            this.metroButton23.TabIndex = 22;
+            this.G2.Location = new System.Drawing.Point(124, 576);
+            this.G2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.G2.Name = "G2";
+            this.G2.Size = new System.Drawing.Size(89, 78);
+            this.G2.TabIndex = 22;
             // 
-            // metroButton24
+            // H2
             // 
-            this.metroButton24.Location = new System.Drawing.Point(124, 661);
-            this.metroButton24.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton24.Name = "metroButton24";
-            this.metroButton24.Size = new System.Drawing.Size(89, 78);
-            this.metroButton24.TabIndex = 23;
+            this.H2.Location = new System.Drawing.Point(124, 661);
+            this.H2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.H2.Name = "H2";
+            this.H2.Size = new System.Drawing.Size(89, 78);
+            this.H2.TabIndex = 23;
             // 
-            // metroButton25
+            // I2
             // 
-            this.metroButton25.Location = new System.Drawing.Point(124, 745);
-            this.metroButton25.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton25.Name = "metroButton25";
-            this.metroButton25.Size = new System.Drawing.Size(89, 78);
-            this.metroButton25.TabIndex = 24;
+            this.I2.Location = new System.Drawing.Point(124, 745);
+            this.I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.I2.Name = "I2";
+            this.I2.Size = new System.Drawing.Size(89, 78);
+            this.I2.TabIndex = 24;
             // 
             // B3
             // 
@@ -377,53 +377,53 @@ namespace Computer_Performance_Windows_Chart
             this.B9.Size = new System.Drawing.Size(89, 78);
             this.B9.TabIndex = 31;
             // 
-            // metroButton33
+            // I9
             // 
-            this.metroButton33.Location = new System.Drawing.Point(797, 745);
-            this.metroButton33.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton33.Name = "metroButton33";
-            this.metroButton33.Size = new System.Drawing.Size(89, 78);
-            this.metroButton33.TabIndex = 32;
+            this.I9.Location = new System.Drawing.Point(797, 745);
+            this.I9.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.I9.Name = "I9";
+            this.I9.Size = new System.Drawing.Size(89, 78);
+            this.I9.TabIndex = 32;
             // 
-            // metroButton34
+            // H8
             // 
-            this.metroButton34.Location = new System.Drawing.Point(701, 661);
-            this.metroButton34.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton34.Name = "metroButton34";
-            this.metroButton34.Size = new System.Drawing.Size(89, 78);
-            this.metroButton34.TabIndex = 33;
+            this.H8.Location = new System.Drawing.Point(701, 661);
+            this.H8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.H8.Name = "H8";
+            this.H8.Size = new System.Drawing.Size(89, 78);
+            this.H8.TabIndex = 33;
             // 
-            // metroButton35
+            // G7
             // 
-            this.metroButton35.Location = new System.Drawing.Point(605, 576);
-            this.metroButton35.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton35.Name = "metroButton35";
-            this.metroButton35.Size = new System.Drawing.Size(89, 78);
-            this.metroButton35.TabIndex = 34;
+            this.G7.Location = new System.Drawing.Point(605, 576);
+            this.G7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.G7.Name = "G7";
+            this.G7.Size = new System.Drawing.Size(89, 78);
+            this.G7.TabIndex = 34;
             // 
-            // metroButton36
+            // F6
             // 
-            this.metroButton36.Location = new System.Drawing.Point(509, 492);
-            this.metroButton36.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton36.Name = "metroButton36";
-            this.metroButton36.Size = new System.Drawing.Size(89, 78);
-            this.metroButton36.TabIndex = 35;
+            this.F6.Location = new System.Drawing.Point(509, 492);
+            this.F6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.F6.Name = "F6";
+            this.F6.Size = new System.Drawing.Size(89, 78);
+            this.F6.TabIndex = 35;
             // 
-            // metroButton37
+            // E5
             // 
-            this.metroButton37.Location = new System.Drawing.Point(412, 407);
-            this.metroButton37.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton37.Name = "metroButton37";
-            this.metroButton37.Size = new System.Drawing.Size(89, 78);
-            this.metroButton37.TabIndex = 36;
+            this.E5.Location = new System.Drawing.Point(412, 407);
+            this.E5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.E5.Name = "E5";
+            this.E5.Size = new System.Drawing.Size(89, 78);
+            this.E5.TabIndex = 36;
             // 
-            // metroButton38
+            // D4
             // 
-            this.metroButton38.Location = new System.Drawing.Point(317, 323);
-            this.metroButton38.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton38.Name = "metroButton38";
-            this.metroButton38.Size = new System.Drawing.Size(89, 78);
-            this.metroButton38.TabIndex = 37;
+            this.D4.Location = new System.Drawing.Point(317, 323);
+            this.D4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.D4.Name = "D4";
+            this.D4.Size = new System.Drawing.Size(89, 78);
+            this.D4.TabIndex = 37;
             // 
             // C3
             // 
@@ -465,29 +465,29 @@ namespace Computer_Performance_Windows_Chart
             this.C7.Size = new System.Drawing.Size(89, 78);
             this.C7.TabIndex = 42;
             // 
-            // metroButton44
+            // D5
             // 
-            this.metroButton44.Location = new System.Drawing.Point(412, 323);
-            this.metroButton44.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton44.Name = "metroButton44";
-            this.metroButton44.Size = new System.Drawing.Size(89, 78);
-            this.metroButton44.TabIndex = 43;
+            this.D5.Location = new System.Drawing.Point(412, 323);
+            this.D5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.D5.Name = "D5";
+            this.D5.Size = new System.Drawing.Size(89, 78);
+            this.D5.TabIndex = 43;
             // 
-            // metroButton45
+            // D6
             // 
-            this.metroButton45.Location = new System.Drawing.Point(509, 323);
-            this.metroButton45.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton45.Name = "metroButton45";
-            this.metroButton45.Size = new System.Drawing.Size(89, 78);
-            this.metroButton45.TabIndex = 44;
+            this.D6.Location = new System.Drawing.Point(509, 323);
+            this.D6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.D6.Name = "D6";
+            this.D6.Size = new System.Drawing.Size(89, 78);
+            this.D6.TabIndex = 44;
             // 
-            // metroButton46
+            // D7
             // 
-            this.metroButton46.Location = new System.Drawing.Point(605, 323);
-            this.metroButton46.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton46.Name = "metroButton46";
-            this.metroButton46.Size = new System.Drawing.Size(89, 78);
-            this.metroButton46.TabIndex = 45;
+            this.D7.Location = new System.Drawing.Point(605, 323);
+            this.D7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.D7.Name = "D7";
+            this.D7.Size = new System.Drawing.Size(89, 78);
+            this.D7.TabIndex = 45;
             // 
             // C8
             // 
@@ -505,274 +505,274 @@ namespace Computer_Performance_Windows_Chart
             this.C9.Size = new System.Drawing.Size(89, 78);
             this.C9.TabIndex = 47;
             // 
-            // metroButton49
-            // 
-            this.metroButton49.Location = new System.Drawing.Point(701, 323);
-            this.metroButton49.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton49.Name = "metroButton49";
-            this.metroButton49.Size = new System.Drawing.Size(89, 78);
-            this.metroButton49.TabIndex = 48;
+            // D8
+            // 
+            this.D8.Location = new System.Drawing.Point(701, 323);
+            this.D8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.D8.Name = "D8";
+            this.D8.Size = new System.Drawing.Size(89, 78);
+            this.D8.TabIndex = 48;
             // 
-            // metroButton50
-            // 
-            this.metroButton50.Location = new System.Drawing.Point(796, 322);
-            this.metroButton50.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton50.Name = "metroButton50";
-            this.metroButton50.Size = new System.Drawing.Size(89, 78);
-            this.metroButton50.TabIndex = 49;
+            // D9
+            // 
+            this.D9.Location = new System.Drawing.Point(796, 322);
+            this.D9.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.D9.Name = "D9";
+            this.D9.Size = new System.Drawing.Size(89, 78);
+            this.D9.TabIndex = 49;
             // 
-            // metroButton51
-            // 
-            this.metroButton51.Location = new System.Drawing.Point(509, 407);
-            this.metroButton51.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton51.Name = "metroButton51";
-            this.metroButton51.Size = new System.Drawing.Size(89, 78);
-            this.metroButton51.TabIndex = 50;
+            // E6
+            // 
+            this.E6.Location = new System.Drawing.Point(509, 407);
+            this.E6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.E6.Name = "E6";
+            this.E6.Size = new System.Drawing.Size(89, 78);
+            this.E6.TabIndex = 50;
             // 
-            // metroButton52
-            // 
-            this.metroButton52.Location = new System.Drawing.Point(317, 407);
-            this.metroButton52.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton52.Name = "metroButton52";
-            this.metroButton52.Size = new System.Drawing.Size(89, 78);
-            this.metroButton52.TabIndex = 51;
+            // E4
+            // 
+            this.E4.Location = new System.Drawing.Point(317, 407);
+            this.E4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.E4.Name = "E4";
+            this.E4.Size = new System.Drawing.Size(89, 78);
+            this.E4.TabIndex = 51;
             // 
-            // metroButton53
-            // 
-            this.metroButton53.Location = new System.Drawing.Point(220, 323);
-            this.metroButton53.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton53.Name = "metroButton53";
-            this.metroButton53.Size = new System.Drawing.Size(89, 78);
-            this.metroButton53.TabIndex = 52;
+            // D3
+            // 
+            this.D3.Location = new System.Drawing.Point(220, 323);
+            this.D3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.D3.Name = "D3";
+            this.D3.Size = new System.Drawing.Size(89, 78);
+            this.D3.TabIndex = 52;
             // 
-            // metroButton54
-            // 
-            this.metroButton54.Location = new System.Drawing.Point(220, 407);
-            this.metroButton54.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton54.Name = "metroButton54";
-            this.metroButton54.Size = new System.Drawing.Size(89, 78);
-            this.metroButton54.TabIndex = 53;
+            // E3
+            // 
+            this.E3.Location = new System.Drawing.Point(220, 407);
+            this.E3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.E3.Name = "E3";
+            this.E3.Size = new System.Drawing.Size(89, 78);
+            this.E3.TabIndex = 53;
             // 
-            // metroButton55
-            // 
-            this.metroButton55.Location = new System.Drawing.Point(605, 407);
-            this.metroButton55.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton55.Name = "metroButton55";
-            this.metroButton55.Size = new System.Drawing.Size(89, 78);
-            this.metroButton55.TabIndex = 54;
+            // E7
+            // 
+            this.E7.Location = new System.Drawing.Point(605, 407);
+            this.E7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.E7.Name = "E7";
+            this.E7.Size = new System.Drawing.Size(89, 78);
+            this.E7.TabIndex = 54;
             // 
-            // metroButton56
-            // 
-            this.metroButton56.Location = new System.Drawing.Point(605, 492);
-            this.metroButton56.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton56.Name = "metroButton56";
-            this.metroButton56.Size = new System.Drawing.Size(89, 78);
-            this.metroButton56.TabIndex = 55;
+            // F7
+            // 
+            this.F7.Location = new System.Drawing.Point(605, 492);
+            this.F7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.F7.Name = "F7";
+            this.F7.Size = new System.Drawing.Size(89, 78);
+            this.F7.TabIndex = 55;
             // 
-            // metroButton57
-            // 
-            this.metroButton57.Location = new System.Drawing.Point(412, 492);
-            this.metroButton57.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton57.Name = "metroButton57";
-            this.metroButton57.Size = new System.Drawing.Size(89, 78);
-            this.metroButton57.TabIndex = 56;
+            // F5
+            // 
+            this.F5.Location = new System.Drawing.Point(412, 492);
+            this.F5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.F5.Name = "F5";
+            this.F5.Size = new System.Drawing.Size(89, 78);
+            this.F5.TabIndex = 56;
             // 
-            // metroButton58
-            // 
-            this.metroButton58.Location = new System.Drawing.Point(317, 492);
-            this.metroButton58.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton58.Name = "metroButton58";
-            this.metroButton58.Size = new System.Drawing.Size(89, 78);
-            this.metroButton58.TabIndex = 57;
+            // F4
+            // 
+            this.F4.Location = new System.Drawing.Point(317, 492);
+            this.F4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.F4.Name = "F4";
+            this.F4.Size = new System.Drawing.Size(89, 78);
+            this.F4.TabIndex = 57;
             // 
-            // metroButton59
-            // 
-            this.metroButton59.Location = new System.Drawing.Point(220, 492);
-            this.metroButton59.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton59.Name = "metroButton59";
-            this.metroButton59.Size = new System.Drawing.Size(89, 78);
-            this.metroButton59.TabIndex = 58;
+            // F3
+            // 
+            this.F3.Location = new System.Drawing.Point(220, 492);
+            this.F3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.F3.Name = "F3";
+            this.F3.Size = new System.Drawing.Size(89, 78);
+            this.F3.TabIndex = 58;
             // 
-            // metroButton60
-            // 
-            this.metroButton60.Location = new System.Drawing.Point(220, 576);
-            this.metroButton60.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton60.Name = "metroButton60";
-            this.metroButton60.Size = new System.Drawing.Size(89, 78);
-            this.metroButton60.TabIndex = 59;
+            // G3
+            // 
+            this.G3.Location = new System.Drawing.Point(220, 576);
+            this.G3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.G3.Name = "G3";
+            this.G3.Size = new System.Drawing.Size(89, 78);
+            this.G3.TabIndex = 59;
             // 
-            // metroButton61
-            // 
-            this.metroButton61.Location = new System.Drawing.Point(797, 407);
-            this.metroButton61.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton61.Name = "metroButton61";
-            this.metroButton61.Size = new System.Drawing.Size(89, 78);
-            this.metroButton61.TabIndex = 60;
+            // E9
+            // 
+            this.E9.Location = new System.Drawing.Point(797, 407);
+            this.E9.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.E9.Name = "E9";
+            this.E9.Size = new System.Drawing.Size(89, 78);
+            this.E9.TabIndex = 60;
             // 
-            // metroButton62
-            // 
-            this.metroButton62.Location = new System.Drawing.Point(797, 492);
-            this.metroButton62.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton62.Name = "metroButton62";
-            this.metroButton62.Size = new System.Drawing.Size(89, 78);
-            this.metroButton62.TabIndex = 61;
+            // F9
+            // 
+            this.F9.Location = new System.Drawing.Point(797, 492);
+            this.F9.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.F9.Name = "F9";
+            this.F9.Size = new System.Drawing.Size(89, 78);
+            this.F9.TabIndex = 61;
             // 
-            // metroButton63
-            // 
-            this.metroButton63.Location = new System.Drawing.Point(701, 407);
-            this.metroButton63.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton63.Name = "metroButton63";
-            this.metroButton63.Size = new System.Drawing.Size(89, 78);
-            this.metroButton63.TabIndex = 62;
+            // E8
+            // 
+            this.E8.Location = new System.Drawing.Point(701, 407);
+            this.E8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.E8.Name = "E8";
+            this.E8.Size = new System.Drawing.Size(89, 78);
+            this.E8.TabIndex = 62;
             // 
-            // metroButton64
-            // 
-            this.metroButton64.Location = new System.Drawing.Point(701, 492);
-            this.metroButton64.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton64.Name = "metroButton64";
-            this.metroButton64.Size = new System.Drawing.Size(89, 78);
-            this.metroButton64.TabIndex = 63;
+            // F8
+            // 
+            this.F8.Location = new System.Drawing.Point(701, 492);
+            this.F8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.F8.Name = "F8";
+            this.F8.Size = new System.Drawing.Size(89, 78);
+            this.F8.TabIndex = 63;
             // 
-            // metroButton65
-            // 
-            this.metroButton65.Location = new System.Drawing.Point(701, 576);
-            this.metroButton65.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton65.Name = "metroButton65";
-            this.metroButton65.Size = new System.Drawing.Size(89, 78);
-            this.metroButton65.TabIndex = 64;
+            // G8
+            // 
+            this.G8.Location = new System.Drawing.Point(701, 576);
+            this.G8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.G8.Name = "G8";
+            this.G8.Size = new System.Drawing.Size(89, 78);
+            this.G8.TabIndex = 64;
             // 
-            // metroButton66
-            // 
-            this.metroButton66.Location = new System.Drawing.Point(317, 745);
-            this.metroButton66.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton66.Name = "metroButton66";
-            this.metroButton66.Size = new System.Drawing.Size(89, 78);
-            this.metroButton66.TabIndex = 65;
+            // I4
+            // 
+            this.I4.Location = new System.Drawing.Point(317, 745);
+            this.I4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.I4.Name = "I4";
+            this.I4.Size = new System.Drawing.Size(89, 78);
+            this.I4.TabIndex = 65;
             // 
-            // metroButton67
-            // 
-            this.metroButton67.Location = new System.Drawing.Point(317, 661);
-            this.metroButton67.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton67.Name = "metroButton67";
-            this.metroButton67.Size = new System.Drawing.Size(89, 78);
-            this.metroButton67.TabIndex = 66;
+            // H4
+            // 
+            this.H4.Location = new System.Drawing.Point(317, 661);
+            this.H4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.H4.Name = "H4";
+            this.H4.Size = new System.Drawing.Size(89, 78);
+            this.H4.TabIndex = 66;
             // 
-            // metroButton68
-            // 
-            this.metroButton68.Location = new System.Drawing.Point(317, 576);
-            this.metroButton68.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton68.Name = "metroButton68";
-            this.metroButton68.Size = new System.Drawing.Size(89, 78);
-            this.metroButton68.TabIndex = 67;
+            // G4
+            // 
+            this.G4.Location = new System.Drawing.Point(317, 576);
+            this.G4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.G4.Name = "G4";
+            this.G4.Size = new System.Drawing.Size(89, 78);
+            this.G4.TabIndex = 67;
             // 
-            // metroButton69
-            // 
-            this.metroButton69.Location = new System.Drawing.Point(509, 661);
-            this.metroButton69.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton69.Name = "metroButton69";
-            this.metroButton69.Size = new System.Drawing.Size(89, 78);
-            this.metroButton69.TabIndex = 68;
-            // 
-            // metroButton70
-            // 
-            this.metroButton70.Location = new System.Drawing.Point(797, 661);
-            this.metroButton70.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton70.Name = "metroButton70";
-            this.metroButton70.Size = new System.Drawing.Size(89, 78);
-            this.metroButton70.TabIndex = 69;
-            // 
-            // metroButton71
-            // 
-            this.metroButton71.Location = new System.Drawing.Point(605, 745);
-            this.metroButton71.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton71.Name = "metroButton71";
-            this.metroButton71.Size = new System.Drawing.Size(89, 78);
-            this.metroButton71.TabIndex = 70;
-            // 
-            // metroButton72
-            // 
-            this.metroButton72.Location = new System.Drawing.Point(412, 745);
-            this.metroButton72.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton72.Name = "metroButton72";
-            this.metroButton72.Size = new System.Drawing.Size(89, 78);
-            this.metroButton72.TabIndex = 71;
-            // 
-            // metroButton73
-            // 
-            this.metroButton73.Location = new System.Drawing.Point(509, 576);
-            this.metroButton73.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton73.Name = "metroButton73";
-            this.metroButton73.Size = new System.Drawing.Size(89, 78);
-            this.metroButton73.TabIndex = 72;
-            // 
-            // metroButton74
-            // 
-            this.metroButton74.Location = new System.Drawing.Point(412, 576);
-            this.metroButton74.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton74.Name = "metroButton74";
-            this.metroButton74.Size = new System.Drawing.Size(89, 78);
-            this.metroButton74.TabIndex = 73;
-            // 
-            // metroButton75
-            // 
-            this.metroButton75.Location = new System.Drawing.Point(797, 576);
-            this.metroButton75.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton75.Name = "metroButton75";
-            this.metroButton75.Size = new System.Drawing.Size(89, 78);
-            this.metroButton75.TabIndex = 74;
-            // 
-            // metroButton76
-            // 
-            this.metroButton76.Location = new System.Drawing.Point(605, 661);
-            this.metroButton76.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton76.Name = "metroButton76";
-            this.metroButton76.Size = new System.Drawing.Size(89, 78);
-            this.metroButton76.TabIndex = 75;
-            // 
-            // metroButton77
-            // 
-            this.metroButton77.Location = new System.Drawing.Point(412, 661);
-            this.metroButton77.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton77.Name = "metroButton77";
-            this.metroButton77.Size = new System.Drawing.Size(89, 78);
-            this.metroButton77.TabIndex = 76;
-            // 
-            // metroButton78
-            // 
-            this.metroButton78.Location = new System.Drawing.Point(509, 745);
-            this.metroButton78.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton78.Name = "metroButton78";
-            this.metroButton78.Size = new System.Drawing.Size(89, 78);
-            this.metroButton78.TabIndex = 77;
-            // 
-            // metroButton79
-            // 
-            this.metroButton79.Location = new System.Drawing.Point(701, 745);
-            this.metroButton79.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton79.Name = "metroButton79";
-            this.metroButton79.Size = new System.Drawing.Size(89, 78);
-            this.metroButton79.TabIndex = 78;
-            // 
-            // metroButton80
-            // 
-            this.metroButton80.Location = new System.Drawing.Point(220, 661);
-            this.metroButton80.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton80.Name = "metroButton80";
-            this.metroButton80.Size = new System.Drawing.Size(89, 78);
-            this.metroButton80.TabIndex = 79;
-            // 
-            // metroButton81
-            // 
-            this.metroButton81.Location = new System.Drawing.Point(220, 745);
-            this.metroButton81.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.metroButton81.Name = "metroButton81";
-            this.metroButton81.Size = new System.Drawing.Size(89, 78);
-            this.metroButton81.TabIndex = 80;
+            // H6
+            // 
+            this.H6.Location = new System.Drawing.Point(509, 661);
+            this.H6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.H6.Name = "H6";
+            this.H6.Size = new System.Drawing.Size(89, 78);
+            this.H6.TabIndex = 68;
+            // 
+            // H9
+            // 
+            this.H9.Location = new System.Drawing.Point(797, 661);
+            this.H9.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.H9.Name = "H9";
+            this.H9.Size = new System.Drawing.Size(89, 78);
+            this.H9.TabIndex = 69;
+            // 
+            // I7
+            // 
+            this.I7.Location = new System.Drawing.Point(605, 745);
+            this.I7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.I7.Name = "I7";
+            this.I7.Size = new System.Drawing.Size(89, 78);
+            this.I7.TabIndex = 70;
+            // 
+            // I5
+            // 
+            this.I5.Location = new System.Drawing.Point(412, 745);
+            this.I5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.I5.Name = "I5";
+            this.I5.Size = new System.Drawing.Size(89, 78);
+            this.I5.TabIndex = 71;
+            // 
+            // G6
+            // 
+            this.G6.Location = new System.Drawing.Point(509, 576);
+            this.G6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.G6.Name = "G6";
+            this.G6.Size = new System.Drawing.Size(89, 78);
+            this.G6.TabIndex = 72;
+            // 
+            // G5
+            // 
+            this.G5.Location = new System.Drawing.Point(412, 576);
+            this.G5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.G5.Name = "G5";
+            this.G5.Size = new System.Drawing.Size(89, 78);
+            this.G5.TabIndex = 73;
+            // 
+            // G9
+            // 
+            this.G9.Location = new System.Drawing.Point(797, 576);
+            this.G9.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.G9.Name = "G9";
+            this.G9.Size = new System.Drawing.Size(89, 78);
+            this.G9.TabIndex = 74;
+            // 
+            // H7
+            // 
+            this.H7.Location = new System.Drawing.Point(605, 661);
+            this.H7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.H7.Name = "H7";
+            this.H7.Size = new System.Drawing.Size(89, 78);
+            this.H7.TabIndex = 75;
+            // 
+            // H5
+            // 
+            this.H5.Location = new System.Drawing.Point(412, 661);
+            this.H5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.H5.Name = "H5";
+            this.H5.Size = new System.Drawing.Size(89, 78);
+            this.H5.TabIndex = 76;
+            // 
+            // I6
+            // 
+            this.I6.Location = new System.Drawing.Point(509, 745);
+            this.I6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.I6.Name = "I6";
+            this.I6.Size = new System.Drawing.Size(89, 78);
+            this.I6.TabIndex = 77;
+            // 
+            // I8
+            // 
+            this.I8.Location = new System.Drawing.Point(701, 745);
+            this.I8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.I8.Name = "I8";
+            this.I8.Size = new System.Drawing.Size(89, 78);
+            this.I8.TabIndex = 78;
+            // 
+            // H3
+            // 
+            this.H3.Location = new System.Drawing.Point(220, 661);
+            this.H3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.H3.Name = "H3";
+            this.H3.Size = new System.Drawing.Size(89, 78);
+            this.H3.TabIndex = 79;
+            // 
+            // I3
+            // 
+            this.I3.Location = new System.Drawing.Point(220, 745);
+            this.I3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.I3.Name = "I3";
+            this.I3.Size = new System.Drawing.Size(89, 78);
+            this.I3.TabIndex = 80;
             // 
             // metroTile1
             // 
             this.metroTile1.Location = new System.Drawing.Point(989, 70);
-            this.metroTile1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.metroTile1.Margin = new System.Windows.Forms.Padding(2);
             this.metroTile1.Name = "metroTile1";
             this.metroTile1.Size = new System.Drawing.Size(92, 78);
             this.metroTile1.TabIndex = 81;
@@ -783,7 +783,7 @@ namespace Computer_Performance_Windows_Chart
             // metroTile2
             // 
             this.metroTile2.Location = new System.Drawing.Point(989, 154);
-            this.metroTile2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.metroTile2.Margin = new System.Windows.Forms.Padding(2);
             this.metroTile2.Name = "metroTile2";
             this.metroTile2.Size = new System.Drawing.Size(92, 78);
             this.metroTile2.TabIndex = 82;
@@ -793,7 +793,7 @@ namespace Computer_Performance_Windows_Chart
             // metroTile3
             // 
             this.metroTile3.Location = new System.Drawing.Point(989, 239);
-            this.metroTile3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.metroTile3.Margin = new System.Windows.Forms.Padding(2);
             this.metroTile3.Name = "metroTile3";
             this.metroTile3.Size = new System.Drawing.Size(92, 78);
             this.metroTile3.TabIndex = 83;
@@ -804,7 +804,7 @@ namespace Computer_Performance_Windows_Chart
             // metroTile4
             // 
             this.metroTile4.Location = new System.Drawing.Point(989, 323);
-            this.metroTile4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.metroTile4.Margin = new System.Windows.Forms.Padding(2);
             this.metroTile4.Name = "metroTile4";
             this.metroTile4.Size = new System.Drawing.Size(92, 78);
             this.metroTile4.TabIndex = 84;
@@ -815,7 +815,7 @@ namespace Computer_Performance_Windows_Chart
             // metroTile5
             // 
             this.metroTile5.Location = new System.Drawing.Point(989, 407);
-            this.metroTile5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.metroTile5.Margin = new System.Windows.Forms.Padding(2);
             this.metroTile5.Name = "metroTile5";
             this.metroTile5.Size = new System.Drawing.Size(92, 78);
             this.metroTile5.TabIndex = 85;
@@ -826,7 +826,7 @@ namespace Computer_Performance_Windows_Chart
             // metroTile6
             // 
             this.metroTile6.Location = new System.Drawing.Point(989, 492);
-            this.metroTile6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.metroTile6.Margin = new System.Windows.Forms.Padding(2);
             this.metroTile6.Name = "metroTile6";
             this.metroTile6.Size = new System.Drawing.Size(92, 78);
             this.metroTile6.TabIndex = 86;
@@ -837,7 +837,7 @@ namespace Computer_Performance_Windows_Chart
             // metroTile7
             // 
             this.metroTile7.Location = new System.Drawing.Point(989, 576);
-            this.metroTile7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.metroTile7.Margin = new System.Windows.Forms.Padding(2);
             this.metroTile7.Name = "metroTile7";
             this.metroTile7.Size = new System.Drawing.Size(92, 78);
             this.metroTile7.TabIndex = 87;
@@ -848,7 +848,7 @@ namespace Computer_Performance_Windows_Chart
             // metroTile8
             // 
             this.metroTile8.Location = new System.Drawing.Point(989, 661);
-            this.metroTile8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.metroTile8.Margin = new System.Windows.Forms.Padding(2);
             this.metroTile8.Name = "metroTile8";
             this.metroTile8.Size = new System.Drawing.Size(92, 78);
             this.metroTile8.TabIndex = 88;
@@ -860,7 +860,7 @@ namespace Computer_Performance_Windows_Chart
             // metroTile9
             // 
             this.metroTile9.Location = new System.Drawing.Point(989, 745);
-            this.metroTile9.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.metroTile9.Margin = new System.Windows.Forms.Padding(2);
             this.metroTile9.Name = "metroTile9";
             this.metroTile9.Size = new System.Drawing.Size(92, 78);
             this.metroTile9.TabIndex = 89;
@@ -883,55 +883,55 @@ namespace Computer_Performance_Windows_Chart
             this.Controls.Add(this.metroTile3);
             this.Controls.Add(this.metroTile2);
             this.Controls.Add(this.metroTile1);
-            this.Controls.Add(this.metroButton81);
-            this.Controls.Add(this.metroButton80);
-            this.Controls.Add(this.metroButton79);
-            this.Controls.Add(this.metroButton78);
-            this.Controls.Add(this.metroButton77);
-            this.Controls.Add(this.metroButton76);
-            this.Controls.Add(this.metroButton75);
-            this.Controls.Add(this.metroButton74);
-            this.Controls.Add(this.metroButton73);
-            this.Controls.Add(this.metroButton72);
-            this.Controls.Add(this.metroButton71);
-            this.Controls.Add(this.metroButton70);
-            this.Controls.Add(this.metroButton69);
-            this.Controls.Add(this.metroButton68);
-            this.Controls.Add(this.metroButton67);
-            this.Controls.Add(this.metroButton66);
-            this.Controls.Add(this.metroButton65);
-            this.Controls.Add(this.metroButton64);
-            this.Controls.Add(this.metroButton63);
-            this.Controls.Add(this.metroButton62);
-            this.Controls.Add(this.metroButton61);
-            this.Controls.Add(this.metroButton60);
-            this.Controls.Add(this.metroButton59);
-            this.Controls.Add(this.metroButton58);
-            this.Controls.Add(this.metroButton57);
-            this.Controls.Add(this.metroButton56);
-            this.Controls.Add(this.metroButton55);
-            this.Controls.Add(this.metroButton54);
-            this.Controls.Add(this.metroButton53);
-            this.Controls.Add(this.metroButton52);
-            this.Controls.Add(this.metroButton51);
-            this.Controls.Add(this.metroButton50);
-            this.Controls.Add(this.metroButton49);
+            this.Controls.Add(this.I3);
+            this.Controls.Add(this.H3);
+            this.Controls.Add(this.I8);
+            this.Controls.Add(this.I6);
+            this.Controls.Add(this.H5);
+            this.Controls.Add(this.H7);
+            this.Controls.Add(this.G9);
+            this.Controls.Add(this.G5);
+            this.Controls.Add(this.G6);
+            this.Controls.Add(this.I5);
+            this.Controls.Add(this.I7);
+            this.Controls.Add(this.H9);
+            this.Controls.Add(this.H6);
+            this.Controls.Add(this.G4);
+            this.Controls.Add(this.H4);
+            this.Controls.Add(this.I4);
+            this.Controls.Add(this.G8);
+            this.Controls.Add(this.F8);
+            this.Controls.Add(this.E8);
+            this.Controls.Add(this.F9);
+            this.Controls.Add(this.E9);
+            this.Controls.Add(this.G3);
+            this.Controls.Add(this.F3);
+            this.Controls.Add(this.F4);
+            this.Controls.Add(this.F5);
+            this.Controls.Add(this.F7);
+            this.Controls.Add(this.E7);
+            this.Controls.Add(this.E3);
+            this.Controls.Add(this.D3);
+            this.Controls.Add(this.E4);
+            this.Controls.Add(this.E6);
+            this.Controls.Add(this.D9);
+            this.Controls.Add(this.D8);
             this.Controls.Add(this.C9);
             this.Controls.Add(this.C8);
-            this.Controls.Add(this.metroButton46);
-            this.Controls.Add(this.metroButton45);
-            this.Controls.Add(this.metroButton44);
+            this.Controls.Add(this.D7);
+            this.Controls.Add(this.D6);
+            this.Controls.Add(this.D5);
             this.Controls.Add(this.C7);
             this.Controls.Add(this.C6);
             this.Controls.Add(this.C5);
             this.Controls.Add(this.C4);
             this.Controls.Add(this.C3);
-            this.Controls.Add(this.metroButton38);
-            this.Controls.Add(this.metroButton37);
-            this.Controls.Add(this.metroButton36);
-            this.Controls.Add(this.metroButton35);
-            this.Controls.Add(this.metroButton34);
-            this.Controls.Add(this.metroButton33);
+            this.Controls.Add(this.D4);
+            this.Controls.Add(this.E5);
+            this.Controls.Add(this.F6);
+            this.Controls.Add(this.G7);
+            this.Controls.Add(this.H8);
+            this.Controls.Add(this.I9);
             this.Controls.Add(this.B9);
             this.Controls.Add(this.B8);
             this.Controls.Add(this.B7);
@@ -939,20 +939,20 @@ namespace Computer_Performance_Windows_Chart
             this.Controls.Add(this.B5);
             this.Controls.Add(this.B4);
             this.Controls.Add(this.B3);
-            this.Controls.Add(this.metroButton25);
-            this.Controls.Add(this.metroButton24);
-            this.Controls.Add(this.metroButton23);
-            this.Controls.Add(this.metroButton22);
-            this.Controls.Add(this.metroButton21);
-            this.Controls.Add(this.metroButton20);
+            this.Controls.Add(this.I2);
+            this.Controls.Add(this.H2);
+            this.Controls.Add(this.G2);
+            this.Controls.Add(this.F2);
+            this.Controls.Add(this.E2);
+            this.Controls.Add(this.D2);
             this.Controls.Add(this.C2);
             this.Controls.Add(this.B2);
-            this.Controls.Add(this.metroButton17);
-            this.Controls.Add(this.metroButton16);
-            this.Controls.Add(this.metroButton15);
-            this.Controls.Add(this.metroButton14);
-            this.Controls.Add(this.metroButton13);
-            this.Controls.Add(this.metroButton12);
+            this.Controls.Add(this.I1);
+            this.Controls.Add(this.H1);
+            this.Controls.Add(this.G1);
+            this.Controls.Add(this.F1);
+            this.Controls.Add(this.E1);
+            this.Controls.Add(this.D1);
             this.Controls.Add(this.C1);
             this.Controls.Add(this.B1);
             this.Controls.Add(this.A9);
@@ -987,20 +987,20 @@ namespace Computer_Performance_Windows_Chart
         private MetroFramework.Controls.MetroButton A9;
         private MetroFramework.Controls.MetroButton B1;
         private MetroFramework.Controls.MetroButton C1;
-        private MetroFramework.Controls.MetroButton metroButton12;
-        private MetroFramework.Controls.MetroButton metroButton13;
-        private MetroFramework.Controls.MetroButton metroButton14;
-        private MetroFramework.Controls.MetroButton metroButton15;
-        private MetroFramework.Controls.MetroButton metroButton16;
-        private MetroFramework.Controls.MetroButton metroButton17;
+        private MetroFramework.Controls.MetroButton D1;
+        private MetroFramework.Controls.MetroButton E1;
+        private MetroFramework.Controls.MetroButton F1;
+        private MetroFramework.Controls.MetroButton G1;
+        private MetroFramework.Controls.MetroButton H1;
+        private MetroFramework.Controls.MetroButton I1;
         private MetroFramework.Controls.MetroButton B2;
         private MetroFramework.Controls.MetroButton C2;
-        private MetroFramework.Controls.MetroButton metroButton20;
-        private MetroFramework.Controls.MetroButton metroButton21;
-        private MetroFramework.Controls.MetroButton metroButton22;
-        private MetroFramework.Controls.MetroButton metroButton23;
-        private MetroFramework.Controls.MetroButton metroButton24;
-        private MetroFramework.Controls.MetroButton metroButton25;
+        private MetroFramework.Controls.MetroButton D2;
+        private MetroFramework.Controls.MetroButton E2;
+        private MetroFramework.Controls.MetroButton F2;
+        private MetroFramework.Controls.MetroButton G2;
+        private MetroFramework.Controls.MetroButton H2;
+        private MetroFramework.Controls.MetroButton I2;
         private MetroFramework.Controls.MetroButton B3;
         private MetroFramework.Controls.MetroButton B4;
         private MetroFramework.Controls.MetroButton B5;
@@ -1008,55 +1008,55 @@ namespace Computer_Performance_Windows_Chart
         private MetroFramework.Controls.MetroButton B7;
         private MetroFramework.Controls.MetroButton B8;
         private MetroFramework.Controls.MetroButton B9;
-        private MetroFramework.Controls.MetroButton metroButton33;
-        private MetroFramework.Controls.MetroButton metroButton34;
-        private MetroFramework.Controls.MetroButton metroButton35;
-        private MetroFramework.Controls.MetroButton metroButton36;
-        private MetroFramework.Controls.MetroButton metroButton37;
-        private MetroFramework.Controls.MetroButton metroButton38;
+        private MetroFramework.Controls.MetroButton I9;
+        private MetroFramework.Controls.MetroButton H8;
+        private MetroFramework.Controls.MetroButton G7;
+        private MetroFramework.Controls.MetroButton F6;
+        private MetroFramework.Controls.MetroButton E5;
+        private MetroFramework.Controls.MetroButton D4;
         private MetroFramework.Controls.MetroButton C3;
         private MetroFramework.Controls.MetroButton C4;
         private MetroFramework.Controls.MetroButton C5;
         private MetroFramework.Controls.MetroButton C6;
         private MetroFramework.Controls.MetroButton C7;
-        private MetroFramework.Controls.MetroButton metroButton44;
-        private MetroFramework.Controls.MetroButton metroButton45;
-        private MetroFramework.Controls.MetroButton metroButton46;
+        private MetroFramework.Controls.MetroButton D5;
+        private MetroFramework.Controls.MetroButton D6;
+        private MetroFramework.Controls.MetroButton D7;
         private MetroFramework.Controls.MetroButton C8;
         private MetroFramework.Controls.MetroButton C9;
-        private MetroFramework.Controls.MetroButton metroButton49;
-        private MetroFramework.Controls.MetroButton metroButton50;
-        private MetroFramework.Controls.MetroButton metroButton51;
-        private MetroFramework.Controls.MetroButton metroButton52;
-        private MetroFramework.Controls.MetroButton metroButton53;
-        private MetroFramework.Controls.MetroButton metroButton54;
-        private MetroFramework.Controls.MetroButton metroButton55;
-        private MetroFramework.Controls.MetroButton metroButton56;
-        private MetroFramework.Controls.MetroButton metroButton57;
-        private MetroFramework.Controls.MetroButton metroButton58;
-        private MetroFramework.Controls.MetroButton metroButton59;
-        private MetroFramework.Controls.MetroButton metroButton60;
-        private MetroFramework.Controls.MetroButton metroButton61;
-        private MetroFramework.Controls.MetroButton metroButton62;
-        private MetroFramework.Controls.MetroButton metroButton63;
-        private MetroFramework.Controls.MetroButton metroButton64;
-        private MetroFramework.Controls.MetroButton metroButton65;
-        private MetroFramework.Controls.MetroButton metroButton66;
-        private MetroFramework.Controls.MetroButton metroButton67;
-        private MetroFramework.Controls.MetroButton metroButton68;
-        private MetroFramework.Controls.MetroButton metroButton69;
-        private MetroFramework.Controls.MetroButton metroButton70;
-        private MetroFramework.Controls.MetroButton metroButton71;
-        private MetroFramework.Controls.MetroButton metroButton72;
-        private MetroFramework.Controls.MetroButton metroButton73;
-        private MetroFramework.Controls.MetroButton metroButton74;
-        private MetroFramework.Controls.MetroButton metroButton75;
-        private MetroFramework.Controls.MetroButton metroButton76;
-        private MetroFramework.Controls.MetroButton metroButton77;
-        private MetroFramework.Controls.MetroButton metroButton78;
-        private MetroFramework.Controls.MetroButton metroButton79;
-        private MetroFramework.Controls.MetroButton metroButton80;
-        private MetroFramework.Controls.MetroButton metroButton81;
+        private MetroFramework.Controls.MetroButton D8;
+        private MetroFramework.Controls.MetroButton D9;
+        private MetroFramework.Controls.MetroButton E6;
+        private MetroFramework.Controls.MetroButton E4;
+        private MetroFramework.Controls.MetroButton D3;
+        private MetroFramework.Controls.MetroButton E3;
+        private MetroFramework.Controls.MetroButton E7;
+        private MetroFramework.Controls.MetroButton F7;
+        private MetroFramework.Controls.MetroButton F5;
+        private MetroFramework.Controls.MetroButton F4;
+        private MetroFramework.Controls.MetroButton F3;
+        private MetroFramework.Controls.MetroButton G3;
+        private MetroFramework.Controls.MetroButton E9;
+        private MetroFramework.Controls.MetroButton F9;
+        private MetroFramework.Controls.MetroButton E8;
+        private MetroFramework.Controls.MetroButton F8;
+        private MetroFramework.Controls.MetroButton G8;
+        private MetroFramework.Controls.MetroButton I4;
+        private MetroFramework.Controls.MetroButton H4;
+        private MetroFramework.Controls.MetroButton G4;
+        private MetroFramework.Controls.MetroButton H6;
+        private MetroFramework.Controls.MetroButton H9;
+        private MetroFramework.Controls.MetroButton I7;
+        private MetroFramework.Controls.MetroButton I5;
+        private MetroFramework.Controls.MetroButton G6;
+        private MetroFramework.Controls.MetroButton G5;
+        private MetroFramework.Controls.MetroButton G9;
+        private MetroFramework.Controls.MetroButton H7;
+        private MetroFramework.Controls.MetroButton H5;
+        private MetroFramework.Controls.MetroButton I6;
+        private MetroFramework.Controls.MetroButton I8;
+        private MetroFramework.Controls.MetroButton H3;
+        private MetroFramework.Controls.MetroButton I3;
         private MetroFramework.Controls.MetroTile metroTile1;
         private MetroFramework.Controls.MetroTile metroTile2;
         private MetroFramework.Controls.MetroTile metroTile3;
