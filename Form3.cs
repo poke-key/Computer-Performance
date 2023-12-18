@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Computer_Performance_Windows_Chart
@@ -13,10 +6,11 @@ namespace Computer_Performance_Windows_Chart
     public partial class Sudoku : MetroFramework.Forms.MetroForm
     {
         private MetroFramework.Controls.MetroButton[,] sudokuButtons;
+        private Random random = new Random();
+
         public Sudoku()
         {
             InitializeComponent();
-            // Initialize the 2D array
             sudokuButtons = new MetroFramework.Controls.MetroButton[9, 9]
             {
                 {A1, A2, A3, A4, A5, A6, A7, A8, A9},
@@ -30,7 +24,6 @@ namespace Computer_Performance_Windows_Chart
                 {I1, I2, I3, I4, I5, I6, I7, I8, I9}
             };
 
-            // Attach the drag-and-drop event handlers into 9x9 grid
             foreach (var button in sudokuButtons)
             {
                 button.MouseDown += SudokuButton_MouseDown;
@@ -38,25 +31,142 @@ namespace Computer_Performance_Windows_Chart
                 button.DragEnter += SudokuButton_DragEnter;
                 button.DragDrop += SudokuButton_DragDrop;
             }
+
+            GenerateSudokuPuzzle();
         }
 
-        /// <summary>
-        /// The following methods handle drag-and-drop functionality
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
+        private void GenerateSudokuPuzzle()
+        {
+            int[,] puzzle = new int[9, 9];
+
+            // Fill the diagonal 3x3 grids
+            for (int i = 0; i < 9; i += 3)
+                FillGrid(i, i, puzzle);
+
+            SolveSudoku(puzzle);
+
+            // Copy the puzzle to the UI grid and hide some numbers
+            HideNumbers(puzzle, 0.75); // Hiding 75% of the numbers
+
+            for (int row = 0; row < 9; row++)
+            {
+                for (int col = 0; col < 9; col++)
+                {
+                    int value = puzzle[row, col];
+                    sudokuButtons[row, col].Text = value == 0 ? "" : value.ToString();
+                    sudokuButtons[row, col].Enabled = value == 0;
+                }
+            }
+        }
+        private void HideNumbers(int[,] puzzle, double percentageToHide)
+        {
+            int totalCells = 9 * 9;
+            int cellsToHide = (int)(percentageToHide * totalCells);
+            int cellsHidden = 0;
+
+            while (cellsHidden < cellsToHide)
+            {
+                int row = random.Next(9);
+                int col = random.Next(9);
+
+                if (puzzle[row, col] != 0)
+                {
+                    puzzle[row, col] = 0;
+                    cellsHidden++;
+                }
+            }
+        }
+
+        private void FillGrid(int startRow, int startCol, int[,] puzzle)
+        {
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    int num;
+                    do
+                    {
+                        num = random.Next(1, 10);
+                    } while (!IsValidMove(startRow + i, startCol + j, num, puzzle));
+
+                    puzzle[startRow + i, startCol + j] = num;
+                }
+            }
+        }
+
+        private bool IsValidMove(int row, int col, int value, int[,] puzzle)
+        {
+            // Check if the value is already present in the same row or column
+            for (int i = 0; i < 9; i++)
+            {
+                if (puzzle[row, i] == value || puzzle[i, col] == value)
+                {
+                    return false;
+                }
+            }
+
+            // Check if the value is already present in the same 3x3 grid
+            int startRow = row - (row % 3);
+            int startCol = col - (col % 3);
+
+            for (int i = 0; i < 3; i++)
+            {
+                for (int j = 0; j < 3; j++)
+                {
+                    if (puzzle[startRow + i, startCol + j] == value)
+                    {
+                        return false;
+                    }
+                }
+            }
+
+            return true;
+        }
+
+        private void SolveSudoku(int[,] puzzle)
+        {
+            Solve(puzzle);
+        }
+
+        private bool Solve(int[,] puzzle)
+        {
+            for (int row = 0; row < 9; row++)
+            {
+                for (int col = 0; col < 9; col++)
+                {
+                    if (puzzle[row, col] == 0)
+                    {
+                        for (int num = 1; num <= 9; num++)
+                        {
+                            if (IsValidMove(row, col, num, puzzle))
+                            {
+                                puzzle[row, col] = num;
+
+                                if (Solve(puzzle))
+                                    return true;
+
+                                puzzle[row, col] = 0;
+                            }
+                        }
+
+                        return false;
+                    }
+                }
+            }
+
+            return true;
+        }
+
         private void SudokuButton_MouseDown(object sender, MouseEventArgs e)
         {
             if (e.Button == MouseButtons.Left)
             {
-                // Start the drag-and-drop operation
                 DoDragDrop(sender, DragDropEffects.Move);
             }
         }
 
         private void SudokuButton_DragEnter(object sender, DragEventArgs e)
         {
-            // Check if the data is a MetroButton
             if (e.Data.GetDataPresent(typeof(MetroFramework.Controls.MetroButton)))
             {
                 e.Effect = DragDropEffects.Move;
@@ -65,13 +175,9 @@ namespace Computer_Performance_Windows_Chart
 
         private void SudokuButton_DragDrop(object sender, DragEventArgs e)
         {
-            // Get the dragged button
             MetroFramework.Controls.MetroButton draggedButton = (MetroFramework.Controls.MetroButton)e.Data.GetData(typeof(MetroFramework.Controls.MetroButton));
-
-            // Get the destination button
             MetroFramework.Controls.MetroButton destinationButton = (MetroFramework.Controls.MetroButton)sender;
 
-            // Swap the text (numbers) between the dragged and destination buttons
             string tempText = destinationButton.Text;
             destinationButton.Text = draggedButton.Text;
             draggedButton.Text = tempText;

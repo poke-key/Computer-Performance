@@ -30,7 +30,7 @@ namespace Computer_Performance_Windows_Chart
         private void applicationToolStripMenuItem_Click(object sender, EventArgs e)
         {
             SystemSounds.Asterisk.Play();
-            MessageBox.Show("This application displays your machines CPU load and available memory.");
+            MessageBox.Show("This application displays your machines CPU load and available memory.\nThere are also classic games you can play if you are bored.");
         }
 
         /// <summary>
